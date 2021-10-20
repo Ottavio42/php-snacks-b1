@@ -1,0 +1,15 @@
+.container {
+    display: flex;
+    max-width: 900px;
+    margin: 0 auto;
+}
+.box {
+    width: 50%;
+    padding: 10px;
+}
+.box.gray {
+    background-color: lightgray;
+}
+.box.green {
+    background-color: lightgreen;
+}
